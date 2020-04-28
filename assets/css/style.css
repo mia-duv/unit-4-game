@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/background_img.jpg");
+    background-image: url("../images/crystal_bg.jpg");
     background-repeat: repeat;
   }
   
@@ -33,7 +33,7 @@ body {
     height: 100px;
     padding: 4px;
     font-size: 3vw;
-    color: purple;
+    color: rgb(32, 48, 92);
     background-color: mediumseagreen;
   }
   
